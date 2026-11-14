@@ -1,3 +1,5 @@
 First Git file
 Learning git diff
 Learning Stagged data
+
+Adding new line by devuser
